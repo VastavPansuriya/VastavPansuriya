@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vastav Pansuriya
 - 👀 I’m interested in game dev. related things
 - 🌱 I’m currently learning Algorithm implementation and game programming patterns 
-- 📫 How to reach me Connect me on my Linkedin or mail me at - vastavpansuriya4444@gmail.com 
+- 📫 How to reach me Connect me, on my Linkedin or mail me at - vastavpansuriya4444@gmail.com 
 - Most of the time I give updates on my LinkedIn, ID - https://www.linkedin.com/in/vastav-pansuriya-54234a24a/
